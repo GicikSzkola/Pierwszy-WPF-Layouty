@@ -89,6 +89,9 @@
 			<Canvas Grid.Column="2" Grid.Row="2" Background="Red">
 				<Rectangle Fill="Aqua" Width="50" Height="25" Canvas.Left="11" Canvas.Top="20"></Rectangle>
 				<Rectangle Fill="White" Width="20" Height="40" Canvas.Left="26" Canvas.Bottom="0"></Rectangle>
+			</Canvas>		
+            <Canvas Grid.Column="1" Grid.Row="2" Background="Pink">
+                <Rectangle Fill="Navy" Width="100" Height="20" Canvas.Left="75" Canvas.Top="75"></Rectangle>
 			</Canvas>
 		</Grid>
 		<!--<Button Content="dock4"></Button> -W dockpanel ostatni element dostaje całe wolne miejsce po ściśnięciu poprzednich -->
